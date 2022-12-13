@@ -1,2 +1,2 @@
 # Times-Series-Forcasting-Arima-Auto-Model-
-Untuk bisa memperkirakan SoC baterai lithium polymer, Maka digunakan metode Arima Automodel. Berdasarkan percobaan kami model memiliki skor RMSE: 0.019
+Dalam kasus ini masalah yang diambil yaitu mengenai tingkat pengisian batre lithium polymer atau State of Charge (Soc)   Untuk bisa memperkirakan SoC baterai lithium polymer, Maka digunakan metode Arima Automodel. Berdasarkan percobaan kami model memiliki skor RMSE: 0.019  untuk pelatihan dan pengujian. Hasil tersebut menunjukkan bahwa dimungkinkan untuk menggunakan Arima Automodel untuk memperkirakan SoC baterai polimer lithium.
